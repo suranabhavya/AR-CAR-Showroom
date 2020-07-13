@@ -4,8 +4,7 @@ It is a professional Car Showroom App based on Augmented reality with voice comm
 # Installation
 1) Copy the https link.
 
-2) Go to your terminal:
-    git clone <https link>
+2) Go to your terminal and type: git clone https_link (in the folder where you want to clone the repository) 
 
 3) Open Unity if downloaded or download unity from this link https://unity.com/
 
